@@ -23,36 +23,36 @@ I have 10+ years of Java experience and work across the stack—from backend ser
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Orbit Reader</h3>
+      <h3><img src="https://raw.githubusercontent.com/benson-singapore/orbit-tauri-tools/master/app/src/assets/logo.png" width="32" height="32" alt="Orbit Reader icon" align="absmiddle" /> Orbit Reader</h3>
       <p>A local-first desktop reader for articles, comics, video, audio, and image collections, extended with plugins.</p>
       <p><a href="https://orbit.benson.indevs.in/">Product site</a> · <a href="https://github.com/benson-singapore/orbit-tauri-tools/releases">Download</a> · <a href="https://github.com/benson-singapore/orbit-tauri-tools">Source</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>Cineo</h3>
+      <h3><img src="https://raw.githubusercontent.com/benson-singapore/cineo-flutter/main/assets/branding/cineo_mark.png" width="32" height="32" alt="Cineo icon" align="absmiddle" /> Cineo</h3>
       <p>A personal media discovery and playback app that keeps your library and watch history on your device.</p>
       <p><a href="https://cineo.benson.in.net/">Product site</a> · <a href="https://github.com/benson-singapore/cineo-flutter/releases">Download</a> · <a href="https://github.com/benson-singapore/cineo-flutter">Source</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>SG Bus Arrival · 巴士来了</h3>
+      <h3><img src="https://raw.githubusercontent.com/benson-singapore/sg-bus-comming/main/frontend/public/logo.png" width="32" height="32" alt="SG Bus Arrival icon" align="absmiddle" /> SG Bus Arrival · 巴士来了</h3>
       <p>A bilingual PWA for live Singapore bus arrivals, saved stops, and everyday commutes.</p>
       <p><a href="https://bus.skycore.cloud/">Open the app</a> · <a href="https://sg-bus-comming-web.pages.dev/">Product page</a> · <a href="https://github.com/benson-singapore/sg-bus-comming">Source</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>Dynamic Calendar</h3>
+      <h3><img src="https://dynamic-calendar.pages.dev/calendar.svg" width="32" height="32" alt="Dynamic Calendar icon" align="absmiddle" /> Dynamic Calendar</h3>
       <p>Generate date-addressable SVG calendars for Notion, profiles, documents, and any place that accepts an image URL.</p>
       <p><a href="https://dynamic-calendar.pages.dev/">Try it</a> · <a href="https://github.com/benson-singapore/dynamic-calendar">Source</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>SG Air</h3>
+      <h3><img src="https://raw.githubusercontent.com/benson-singapore/sg-air-monitor/master/public/icons/air-logo.svg" width="32" height="32" alt="SG Air icon" align="absmiddle" /> SG Air</h3>
       <p>A responsive Singapore PM2.5 dashboard using public data, interactive regional maps, and PWA support.</p>
       <p><a href="https://sg-air-monitor.pages.dev/">Live demo</a> · <a href="https://github.com/benson-singapore/sg-air-monitor">Source</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>LeetCode Notes</h3>
+      <h3><img src="https://raw.githubusercontent.com/benson-singapore/leetcode-note/master/public/logo.png" width="32" height="32" alt="LeetCode Notes icon" align="absmiddle" /> LeetCode Notes</h3>
       <p>A local-first desktop study tool for coding notes, review plans, progress tracking, and AI-assisted explanations.</p>
       <p><a href="https://github.com/benson-singapore/leetcode-note">Source</a></p>
     </td>
@@ -85,3 +85,4 @@ These include backend foundations, developer utilities, learning notes, and expe
 ---
 
 <p align="center"><sub>Built in Singapore · Always learning, always shipping.</sub></p>
+
