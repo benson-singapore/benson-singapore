@@ -30,7 +30,7 @@ I have 10+ years of Java experience and work across the stack—from backend ser
     <td width="50%" valign="top">
       <h3><img src="https://raw.githubusercontent.com/benson-singapore/cineo-flutter/main/assets/branding/cineo_mark.png" width="32" height="32" alt="Cineo icon" align="absmiddle" /> Cineo</h3>
       <p>A personal media discovery and playback app that keeps your library and watch history on your device.</p>
-      <p><a href="https://cineo.benson.in.net/">Product site</a> · <a href="https://github.com/benson-singapore/cineo-flutter/releases">Download</a> · <a href="https://github.com/benson-singapore/cineo-flutter">Source</a></p>
+      <p><a href="https://cineo.benson.in.net/">Product site</a> · <a href="https://github.com/benson-singapore/cineo-flutter/releases">Download</a> · <a href="https://github.com/benson-singapore/cineo-flutter">Flutter</a> · <a href="https://github.com/benson-singapore/cineo-tv-os">Android TV</a></p>
     </td>
   </tr>
   <tr>
