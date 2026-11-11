@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile-orbit.gif" width="220" alt="A transparent animated orbit carrying a book, a play button, and a calendar" />
+  <img src="profile-banner.png" width="100%" alt="Benson — Thoughtful tools. Everyday life. Engineer in Singapore. An open book, media tile, and calendar represent reading, media, and everyday tools." />
   <h1>Hi, I'm Benson 👋</h1>
   <p><strong>Backend-first full-stack engineer · Singapore</strong></p>
   <p>我喜欢把阅读、媒体和日常工作流里的复杂问题，做成简单耐用的小工具。<br />
